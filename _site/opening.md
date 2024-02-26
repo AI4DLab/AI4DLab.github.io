@@ -13,6 +13,7 @@ The ideal candidate must meet the following options:
 3. Experience in programming with Python, Julia, or C++.
 4. Good knowledge of fluid mechanics, aerodynamics, and turbulence.
 5. Experience in CFD software development or good knowledge of algorithms in CFD methods.  
+6. Meet admission requirements for the PhD program in the Lyle School of Engineering ([Link](https://catalog.smu.edu/content.php?catoid=64&navoid=6119)) 
 
 If you meet the aforementioned options, you should email a cover letter and CV to Prof. Karbasian ([karbasian@mit.edu](karbasian@mit.edu)) with the subject "PhD Application - SML", otherwise your email might not be seen.
 
