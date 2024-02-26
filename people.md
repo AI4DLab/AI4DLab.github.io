@@ -9,8 +9,8 @@
 <img src="/img/hamid.jpg" alt="drawing" width="250"/>
 <br>
 <br>
-<span style="color:black; font-size:1.5em">**Hamid R. Karbasian, PhD**</span><br> Incoming Assistant Professor in AI-Powered Digital Engineering System <br> Department of Mechanical Engineering <br> Lyle School of Engineering <br> Southern Methodist University <br> **Email:** karbasian [at] mit [dot] edu <br> **Phone:** TBA <br>
-[Karbasian CV](files/CV-HamidrezaKarbasian.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=jhahvIoAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/hamid-r-karbasian-0aa041111) \| [Twitter/X](https://twitter.com/hamid_karbasian) 
+<span style="color:black; font-size:1.5em">**Hamid R. Karbasian, PhD**</span><br> Incoming Assistant Professor in AI-Powered Digital Engineering System <br> Director, Artificial Intelligence for Design (AI4D) lab <br> Department of Mechanical Engineering <br> Lyle School of Engineering <br> Southern Methodist University <br> **Email:** karbasian [at] mit [dot] edu <br> **Phone:** TBA <br>
+[Karbasian CV](files/CV-HamidrezaKarbasian.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=jhahvIoAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/hamid-r-karbasian-0aa041111) \| [X](https://twitter.com/hamid_karbasian) 
 <br>
 <br>
 <br>

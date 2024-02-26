@@ -3,7 +3,7 @@
 <style>H3{color:DarkOrange;}</style>
 <style>p{color:Black;text-align: justify; font-size: 17px;}</style>
 
-## PhD students
+## PhD students ( [Download flyer](files/PhDposition.pdf) )
 -------------
 Finishing your Masters degree and interested in computational physics, and solving complex problems in design and optimization using scientific machine learning? The AI4D Lab has multiple fully-funded PhD positions.
 
