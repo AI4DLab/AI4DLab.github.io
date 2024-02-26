@@ -3,34 +3,23 @@
 <style>H3{color:DarkOrange;}</style>
 <style>p{color:Black;text-align: justify; font-size: 17px;}</style>
 
-
 <p style="text-align:center"><img src="/img/jfmbook.png" alt="drawing" width="600"/></p>
-
-## Book
-B.C. Vermeire, C.A. Pereira, **H.R. Karbasian**, [Computational Fluid Dynamics: An Open-Source Approach](https://users.encs.concordia.ca/~bvermeir/book/CFD\%20-\%20An\%20Open-Source\%20Approach.pdf), Concordia University Press, 2020.
-
--------------
-
-## Thesis
-* **H.R. Karbasian**, [Aerodynamic optimization using high fidelity computational fluid dynamics](https://spectrum.library.concordia.ca/id/eprint/988742/), PhD thesis, Concordia University, 2021.
-
-* **H.R. Karbasian**, [Analysis of unsteady flow and vortex structures around a moving foil under deep dynamic stall condition](http://dcollection.pusan.ac.kr/public_resource/pdf/000000125283_20210705122739.pdf), MSc thesis, Pusan National University, 2017.
-
--------------
-
-## Patent
-**H.R. Karbasian**, N. Saghatoleslami, [Mechanical respiratory system for underwater breathing (Mechanical gill)](https://hrk.yolasite.com/resources/PatentEng.jpg.opt465x640o0\%2C0s465x640.jpg), No. 71062 B/ 390010253 App. Iranian Patent, 2011.
+<br>
 
 -------------
 
 ## Peer-reviewed articles
-* **H.R. Karbasian**, J.A. Esfahani, A.M. Aliyu, K.C. Kim, [Numerical analysis of wind turbines blade in deep dynamic stall](https://doi.org/10.1016/j.renene.2022.07.115), Renewable Energy, 2022.
+* **H.R. Karbasian**, W.M. van Rees, [A parametric LSTM neural network and its application to predicting flapping foil dynamics across a design space](), (submitted)
 
-* A. Aubrey, **H.R. Karbasian**, B.C. Vermeire, [High-fidelity gradient-free optimization of low-pressure turbine cascades](https://doi.org/10.1016/j.compfluid.2022.105668), Computers and Fluids, 2022.
+* **H.R. Karbasian**, W.M. van Rees, [A Deep-Learning Surrogate Model Approach for Optimization of Morphing Airfoils](https://arc.aiaa.org/doi/abs/10.2514/6.2023-1619), AIAA SCITECH, 2023.
 
 * **H.R. Karbasian**, B.C. Vermeire, [Application of physics-constrained data-driven reduced-order models to shape optimization](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/application-of-physicsconstrained-datadriven-reducedorder-models-to-shape-optimization/6A1A6A6C4052B538377B7A676623CF5B), Journal of Fluid Mechanics, 2022.
 
 * **H.R. Karbasian**, B.C. Vermeire, [Sensitivity analysis of chaotic dynamical systems using a physics constrained data-driven approach](https://aip.scitation.org/doi/10.1063/5.0076074), Physics of Fluids, 2022.
+
+* **H.R. Karbasian**, J.A. Esfahani, A.M. Aliyu, K.C. Kim, [Numerical analysis of wind turbines blade in deep dynamic stall](https://doi.org/10.1016/j.renene.2022.07.115), Renewable Energy, 2022.
+
+* A. Aubrey, **H.R. Karbasian**, B.C. Vermeire, [High-fidelity gradient-free optimization of low-pressure turbine cascades](https://doi.org/10.1016/j.compfluid.2022.105668), Computers and Fluids, 2022.
 
 * **H.R. Karbasian**, B.C. Vermeire, [Gradient-free aerodynamic shape optimization using Large Eddy Simulation](https://www.sciencedirect.com/science/article/pii/S004579302100311X), Computers and Fluids, 2021.
 
@@ -70,7 +59,19 @@ B.C. Vermeire, C.A. Pereira, **H.R. Karbasian**, [Computational Fluid Dynamics: 
 
 -------------
 
+## Book
+B.C. Vermeire, C.A. Pereira, **H.R. Karbasian**, [Computational Fluid Dynamics: An Open-Source Approach](https://users.encs.concordia.ca/~bvermeir/book/CFD\%20-\%20An\%20Open-Source\%20Approach.pdf), Concordia University Press, 2020.
+
+-------------
+
 ## Invited talks
+
+* **H.R. Karbasian**, AI for Design: Searching ways to accelerate designs, Department of Mechanical Engineering, University of Massachusetts Dartmouth, Dartmouth, USA, Jan. 2024.
+
+* **H.R. Karbasian**, A novel reduced-order modeling for high-fidelity PDE-constrained aerodynamic optimization, Department of Mechanical Engineering, Toronto Metropolitan University, Toronto, Canada, Jun. 2023.
+
+* **H.R. Karbasian**, High-fidelity PDE-constrained aerodynamic optimization using reduced-order modeling, Department of Mechanical Engineering, University of South Florida, USA, May. 2023.
+
 * **H.R. Karbasian**, Design in Chaos: High-Fidelity Aerodynamic Optimization Using Novel Physics Constrained Machine Learning, Department of Mechanical and Aerospace Engineering, University of California, Davis, Feb. 2022.
 
 * **H.R. Karbasian**, Physics-constrained data-driven reduced-order modelling for large-scale optimizations, National Research Council Canada, Dec. 2021.
@@ -86,6 +87,11 @@ B.C. Vermeire, C.A. Pereira, **H.R. Karbasian**, [Computational Fluid Dynamics: 
 -------------
 
 ## Conference papers & presentations (refereed)
+
+* **H.R. Karbasian**, W. van Rees, [A parameterized LSTM deep neural network framework to model unsteady flow problems], American Physical Society, Washington DC, USA, 2023.
+
+* Omar Tazi Labzour, **H.R. Karbasian**, Sebastien Houde, Frederick P. Gosselin, [Combining Reduced-Order Modeling and PINNs to model Fluid-Structure Interactions], Canadian Society for Mechanical Engineering (CSME), Sherbrooke, Canada, 2023. 
+
 * **H.R. Karbasian**, W. vanRees, [A Deep-Learning Surrogate Model Approach for Optimization of Morphing Airfoils](), AIAA SciTech, National Harbor, USA, 2023.
 
 * **H.R. Karbasian**, W. vanRees, [Development of surrogate models for unsteady flow fields using a deep neural network](), American Physical Society, Indianapolis, USA, 2022.

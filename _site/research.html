@@ -33,11 +33,12 @@
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				      <ul class="nav navbar-nav">
 						  <li><a href="index.html">Home</a></li>
-							<li><a href="publications.html">Publications</a></li>
 						  <li><a href="research.html">Research</a></li>
-							<li><a href="teaching.html">Teaching</a></li>
-						  <li><a href="files/CV-HamidrezaKarbasian.pdf" target="_blank">CV</a></li>
-
+							<li><a href="publications.html">Publications</a></li>
+							<li><a href="people.html">People</a></li>
+							<li><a href="gallery.html">Gallery</a></li>
+							<li><a href="opening.html">Opening</a></li>
+							<li><a href="contact.html">Contact</a></li>
 
 				      </ul>
 				</div>
@@ -70,13 +71,13 @@
 
 			<div style="margin-top:3%; text-align:justify; font-family: 'Arial', sans-serif; font-size: 17px;">
 							<h3 style="text-align:center">AI-Powered & Physics-Based Simulations</h3><br/>
-						<p>At the Fields Institute, my mission was to study complex, large-scale dynamical systems and predict the physical behaviour of these non-linear systems in different scenarios. Unlike conventional methods for solving PDEs in a discrete physical domain (computationally expensive), I employ Artificial Intelligence (AI) and Koopman formalism to solve PDEs in Hilbert space. My research helps develop robust and efficient solvers for prediction, failure assessment, design and optimization. In other words, I use AI-powered physics-based modelling for turbulence, thermofluid analysis, load prediction, structural/Aeroelasticity analysis, and many other physical phenomena.</p>
+						<p>At the Fields Institute, my mission was to study complex, large-scale dynamical systems and predict the physical behavior of these non-linear systems in different scenarios. Unlike conventional methods for solving PDEs in a discrete physical domain (computationally expensive), I employ Artificial Intelligence (AI) and Koopman formalism to solve PDEs in Hilbert space. My research helps develop robust and efficient solvers for prediction, failure assessment, design and optimization. In other words, I use AI-powered physics-based modeling for turbulence, thermofluid analysis, load prediction, structural/Aeroelasticity analysis, and many other physical phenomena.</p>
 						<img class="img-responsive" src="img/digitize.png" alt="">
 			</div>
 			<hr/>
 			<div style="margin-top:3%; text-align:justify; font-family: 'Arial', sans-serif; font-size: 17px;">
 						<h3 style="text-align:center">Multidisciplinary Design Optimization (MDO)</h3><br/>
-						<p>Solving unsteady sensitivity equations is a challenging problem in large-scale constrained PDE optimization. With the advent of high-fidelity simulations and powerful computational resources, topology optimization struggles from the instability of Navier-Stokes equations. The idea we are working on is to transfer the optimization framework from a physical 3D space to an unphysical space and solve optimization with lower computational costs with notable improvement in the stability of constrained PDEs. One example is drag minimization for NACA 0012 airfoil at AOA=25 degrees, where the airfoil experiences a massive flow separation. Animation (a) shows the initial case (NACA 0012 airfoil), and animation (b) presents the optimized shape. It is found that the optimization progress is successfully demonstrated with about 20% drag reduction.</p>
+						<p>Solving unsteady sensitivity equations is a challenging problem in large-scale constrained PDE optimization. With the advent of high-fidelity simulations and powerful computational resources, topology optimization struggles from the instability of Navier-Stokes equations. The idea we are working on is to transfer the optimization framework from a physical 3D space to an unphysical space and solve optimization with lower computational costs with notable improvement in the stability of constrained PDEs. One example is drag minimization for NACA 0012 airfoil at AOA=25 degrees, where the airfoil experiences a massive flow separation. Animation (a) shows the initial case (NACA 0012 airfoil), and animation (b) presents the optimized shape. It was found that the optimization progress was successfully demonstrated with about 20% drag reduction.</p>
 
 						<div style="text-align:center">
 							<iframe src="https://www.youtube.com/embed/MUNSaZpvlEE" style="border:0px #ffffff none;"  width="640" height="310" allowfullscreen></iframe>
@@ -95,7 +96,7 @@
 			<hr/>
 			<div style="margin-top:3%; text-align:justify; font-family: 'Arial', sans-serif; font-size: 17px;">
 						<h3 style="text-align:center">Uncertainty Quantification (UQ)</h3><br/>
-						<p>Sensitivity analysis becomes challenging for unsteady aerodynamic problems like the airfoil at high angles of attack exposed to massive flow separation. The reason is that Navier-Stokes equations are strongly non-linear PDEs, and sensitivity equations (either tangent or adjoint) diverge as the sensitivity solution advances in time. I could develop a framework compatible with any unsteady PDEs in a new approach. Using Machine Learning (ML), it is possible to train a surrogate model that is physically interpretative. This framework allows us to compute the sensitivity of the solution with respect to any design variable. This novel approach is applied to find the sensitivity of the drag coefficient with respect to the angle of attack at AOA=25 degrees and Re=20,000. Animation bellow shows the massive flow separation and the sensitivity solution w.r.t the angle of attack at post-stall region.</p>
+						<p>Sensitivity analysis becomes challenging for unsteady aerodynamic problems like the airfoil at high angles of attack exposed to massive flow separation. The reason is that Navier-Stokes equations are strongly non-linear PDEs, and sensitivity equations (either tangent or adjoint) diverge as the sensitivity solution advances in time. I could develop a framework compatible with any unsteady PDEs in a new approach. Using Machine Learning (ML), it is possible to train a surrogate model that is physically interpretative. This framework allows us to compute the sensitivity of the solution with respect to any design variable. This novel approach is applied to find the sensitivity of the drag coefficient with respect to the angle of attack at AOA=25 degrees and Re=20,000. The animation below shows the massive flow separation and the sensitivity solution w.r.t the angle of attack at post-stall region.</p>
 						<div style="text-align:center">
 							<img class="img-responsive" src="img/network.png" alt="">
 						</div>
@@ -132,7 +133,7 @@
 
 			<div style="margin-top:3%; text-align:justify; font-family: 'Arial', sans-serif; font-size: 17px;">
 						<h3 style="text-align:center">High Performance Computing (HPC)</h3><br/>
-						<p>In ongoing research, I developed parallel numerical algorithms for the machine with multiprocessor architectures. I implemented a fully parallelized framework for shape optimization of SD7003 in a fully turbulent flow. The optimization framework distributes optimization tasks among the CPUs. Then each CPU sends CFD simulations to GPU clusters to speed-up numerical calculations. This novel framework is able to reduce the optimization cost by about %35 (and, in some cases, up to %70).</p>
+						<p>In ongoing research, I developed parallel numerical algorithms for the machine with multiprocessor architectures. I implemented a fully parallelized framework for shape optimization of SD7003 in a fully turbulent flow. The optimization framework distributes optimization tasks among the CPUs. Then, each CPU sends CFD simulations to GPU clusters to speed-up numerical calculations. This novel framework is able to reduce the optimization cost by about %35 (and, in some cases, up to %70).</p>
 						<img class="img-responsive" src="img/turbulent-isosurface.jpg" alt="">
 			</div>
 			<hr/>
@@ -146,26 +147,21 @@
 	            <!-- Sidebar -->
 							<!----------------------------------------------------------------->
 	            <div class="col-md-4">
-	                <img class="img-responsive" src="img/hamid2.jpg" alt="">
-	                <p>
-	                <div style="font-family: 'Arial', sans-serif; font-size: 30px;"><b>Hamid R. Karbasian</b></div><br>
-	                <div style="font-family: 'Arial', sans-serif; font-size: 17px;">
-	                <p>Postdoctoral Research Associate<br>
-	                Department of Mechanical Engineering<br>
-									Masschusetts Institute of Technology<br>
-	                Cambridge, USA<br>
-	                </p>
-	                </div>
+									<p>
+										<br><br><br>
+									</p>
+	                <img class="img-responsive" src="img/ai4d-logo.png" alt=""  width="250">
+									<p>
+										<br>
+									</p>
+									<img class="img-responsive" src="img/smu-logo.jpeg" alt="" width="250">
+									<p>
+										<br>
+									</p>
+									<div style="font-family: 'Arial', sans-serif; font-size: 17px;"><b>Contact:</b></div>
+									<div style="font-family: 'Arial', sans-serif; font-size: 17px;">Artificial Intelligence for Design (AI4D) Lab</div>
+									<div style="font-family: 'Arial', sans-serif; font-size: 17px;">Department of Mechanical Engineering<br>Lyle School of Engineering<br>Southern Methodist University<br>Dallas, TX 7505, USA<br></div>
 
-			      <div style="font-family: 'Arial', sans-serif; font-size: 17px;">
-			      <dd>Email: <a href="karbasian@mit.edu">karbasian [at] mit [dot] edu</a></dd>
-		              <dd><a href="https://scholar.google.com/citations?user=jhahvIoAAAAJ&hl=en">Google Scholar</a></dd>
-		              <dd><a href="https://www.linkedin.com/in/hamid-r-karbasian-0aa041111">LinkedIn</a></dd>
-		              <dd><a href="https://twitter.com/hamid_karbasian">Twitter</a></dd>
-									</div>
-
-									<br>
-									<img class="img-responsive" src="img/mit_logo.png" alt="https://www.mit.edu/">
 
 	            </div>
 							<!----------------------------------------------------------------->
