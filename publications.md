@@ -88,9 +88,9 @@ B.C. Vermeire, C.A. Pereira, **H.R. Karbasian**, [Computational Fluid Dynamics: 
 
 ## Conference papers & presentations (refereed)
 
-* **H.R. Karbasian**, W. van Rees, [A parameterized LSTM deep neural network framework to model unsteady flow problems], American Physical Society, Washington DC, USA, 2023.
+* **H.R. Karbasian**, W. van Rees, [A parameterized LSTM deep neural network framework to model unsteady flow problems](), American Physical Society, Washington DC, USA, 2023.
 
-* Omar Tazi Labzour, **H.R. Karbasian**, Sebastien Houde, Frederick P. Gosselin, [Combining Reduced-Order Modeling and PINNs to model Fluid-Structure Interactions], Canadian Society for Mechanical Engineering (CSME), Sherbrooke, Canada, 2023. 
+* Omar Tazi Labzour, **H.R. Karbasian**, Sebastien Houde, Frederick P. Gosselin, [Combining Reduced-Order Modeling and PINNs to model Fluid-Structure Interactions](), Canadian Society for Mechanical Engineering (CSME), Sherbrooke, Canada, 2023. 
 
 * **H.R. Karbasian**, W. vanRees, [A Deep-Learning Surrogate Model Approach for Optimization of Morphing Airfoils](), AIAA SciTech, National Harbor, USA, 2023.
 
