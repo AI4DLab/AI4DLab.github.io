@@ -22,9 +22,9 @@ Dr. Hamid R. Karbasian will join the Department of Mechanical Engineering in the
 -------------
 
 ||
-| <img src="/img/ishi.jpg" alt="drawing" width="200"/>  ||| <img src="/img/ishi.jpg" alt="drawing" width="200"/> ||| <img src="/img/ishi.jpg" alt="drawing" width="200"/> |
+| <img src="/img/ishi.jpg" alt="drawing" width="280"/>  ||| <img src="/img/ushi.jpg" alt="drawing" width="280"/> |
 |||||
-| **Might be you!** <br> []() ||| **Might be you!** <br> []() ||| **Might be you!** <br> []() |
+| **Ishi might be you!** <br> []() ||| **Ushi might be you!** <br> []() |
 ||
 
 
