@@ -15,11 +15,11 @@ The ideal candidate must meet the following options:
 5. Experience in CFD software development or good knowledge of algorithms in CFD methods.  
 6. Meet admission requirements for the PhD program in the Lyle School of Engineering ([Link](https://catalog.smu.edu/content.php?catoid=64&navoid=6119)) 
 
-If you meet the aforementioned options, you should email a cover letter and CV to Prof. Karbasian ([karbasian@mit.edu](karbasian@mit.edu)) with the subject "PhD Application - SML", otherwise your email might not be seen.
+If you meet the aforementioned options, you should email a cover letter and CV to Prof. Karbasian (hkarbasian [at] smu [dot] edu) with the subject "PhD Application - SML", otherwise your email might not be seen.
 
 ## Undergrad students
 -------------
-Undergraduate students who are interested in working in the AI4D Lab should directly contact Prof. Karbasian ([karbasian@mit.edu](karbasian@mit.edu)) with a brief statement of their interests and background. Note that the subject of your email must be "Undergrad Application - SML", otherwise your email might not be seen.
+Undergraduate students who are interested in working in the AI4D Lab should directly contact Prof. Karbasian (hkarbasian [at] smu [dot] edu) with a brief statement of their interests and background. Note that the subject of your email must be "Undergrad Application - SML", otherwise your email might not be seen.
 
 
 ## Post-doctoral fellows
@@ -28,5 +28,5 @@ Currently, we do not have hiring, while prospective postdocs are always welcome 
 
 ## Visiting scholars
 -------------
-Interested in sharpening your knowledge in design and optimization in fluid engineering problems? AI4D Lab is always looking forward to collaborating with talented researchers and students. For more information, please contact Prof. Karbasian ([karbasian@mit.edu](karbasian@mit.edu)) with the subject "Visiting Scholar - SML".
+Interested in sharpening your knowledge in design and optimization in fluid engineering problems? AI4D Lab is always looking forward to collaborating with talented researchers and students. For more information, please contact Prof. Karbasian (hkarbasian [at] smu [dot] edu) with the subject "Visiting Scholar - SML".
 
