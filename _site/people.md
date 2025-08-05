@@ -22,10 +22,49 @@ Dr. Hamid R. Karbasian is an Assistant Professor in AI-Powered Digital Engineeri
 -------------
 
 ||
+| <img src="/img/abanda.jpg" alt="drawing" width="280"/>  ||| <img src="/img/yhafiane.jpg" alt="drawing" width="280"/> |
+|||||
+| **Adam G. Banda** (PhD student) <br> []() ||| **Yassine Hafiane** (PhD Student) <br> []() |
+| Email: agbanda@mail.smu.edu ||| Email: yhafiane@mail.smu.edu |
+| Web: [Linkedin](https://www.linkedin.com/in/adam-g-banda/) ||| Web: [Linkedin](https://www.linkedin.com/in/yassine-hafiane-636062229/) |
+|||||
+| **Research:** <br> Physics-Informed Neural Network, <br> Computational Fluid Dynamics <br>  ||| **Research:** <br> Network Archietrure Design <br> Nonlinear System Identification |
+||
+
+||
+| <img src="/img/mzshaik.jpg" alt="drawing" width="280"/>  |||  					  |
+|||||
+| **Mohammad Zaheer Shaik** (PhD student) <br> []() |||          				    	  |
+| Email: mohammadzaheers@mail.smu.edu |||                              				          |
+| Web: [Linkedin](https://www.linkedin.com/in/zaheer26/) |||      					  |
+|||||
+| **Research:** <br> Computational Fluid Dynamics, <br> Uncertainty Quantification <br> |||               |
+||
+
+||
 | <img src="/img/ishi.jpg" alt="drawing" width="280"/>  ||| <img src="/img/ushi.jpg" alt="drawing" width="280"/> |
 |||||
-| **Ishi might be you!** <br> []() ||| **Ushi might be you!** <br> []() |
+| **ishi** (might be you) <br> []() ||| **ushi** (might be you) <br> []() |
+| Email:  ||| Email:  |
+| Web: [Linkedin]() ||| Web: [Linkedin]() |
+|||||
+| **Research:** <br> Telling Dad's jokes in the Lab <br> Making ice cream for Labmates <br>  ||| **Research:** <br> Having fun in the Lab <br> Cooking pancakes for Labmates <br> |
 ||
 
 
+<br>
+<br>
+<br>
+## Alumni
+-------------
+Wait! It takes time...
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
